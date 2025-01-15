@@ -37,5 +37,5 @@ Re-upload of a Laundry Shop Management System project developed using C++ 💻 a
 ### Compilation and Execution
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/laundry-management-system.git
+   git clone https://github.com/waterondaway/laundry-management-system.git
    cd laundry-management-system
