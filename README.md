@@ -6,10 +6,11 @@ Re-upload of a Laundry Shop Management System project developed using C++ 💻 a
 ## Entrepreneur Functions
 
 ###  Sample Customer Functions
-!['sample_customer_functions'](assets/image/users/function_select_machine.png)
+<img src="assets/image/users/function_select_machine.png" width="300" height="200" />
+
 
 ###  Sample Entrepreneur Functions
-!['sample_entrepreneur_functions'](assets/image/enterpreneur/function_entrepreneur.png)
+<img src="assets/image/enterpreneur/function_entrepreneur.png" width="300" height="200" />
 
 ## Features
 
