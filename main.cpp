@@ -3,7 +3,7 @@
 
 using namespace std;
 
-FILE *file_receipt = fopen("Transaction.txt","w");
+FILE *file_receipt = fopen("transaction.txt","w");
 
 int using_account_no;
 
@@ -296,7 +296,6 @@ string create_account(int account_no){
 
     
 int main(){
-    
     float main_washing_cost,main_drying_cost;
     string func_status,machine_select,entrepreneur_status;
     int entrepreneur_mode;

@@ -17,7 +17,7 @@ Re-upload of a Laundry Shop Management System project developed using C++ 💻 a
 
 ## File Structure
 - **`main.cpp`**: The source code for the Laundry Management System.
-- **`Transaction.txt`**: Stores transaction details, such as user ID, machine usage, and costs.
+- **`transaction.txt`**: Stores transaction details, such as user ID, machine usage, and costs.
 
 ## Setup Instructions
 
