@@ -3,13 +3,13 @@
 ## Project Description
 Re-upload of a Laundry Shop Management System project developed using C++ 💻 and utilizing txt files 📝 for data management. It is designed to manage a coin-operated laundry shop 🧺, allowing for machine operations, receipt generation, profit tracking 💵, and a membership system. A simple and functional system to automate laundry shop management 🚀
 
-## Entrepreneur Functions
+## Functions Examples
 
-###  Sample Customer Functions
+###  Customer Functions Examples
 <img src="assets/image/users/function_select_machine.png" width="300" height="200" />
 
 
-###  Sample Entrepreneur Functions
+###  Entrepreneurship Functions Examples
 <img src="assets/image/enterpreneur/function_entrepreneur.png" width="300" height="200" />
 
 ## Features
