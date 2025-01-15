@@ -1,7 +1,7 @@
 # Laundry Management System
 
 ## Project Description
-Re-upload of a Laundry Shop Management System project developed using C++ 💻 and utilizing txt files 📝 for data management. It is designed to manage a coin-operated laundry shop 🧺, allowing for machine operations, receipt generation, profit tracking 💵, and a membership system. A simple and functional system to automate laundry shop management 🚀
+Re-upload of a **Laundry Shop Management System** developed using C++ 💻 and utilizing txt files 📝 for data management. It is designed to manage a coin-operated laundry shop 🧺, allowing for machine operations, receipt generation, profit tracking 💵, and a membership system. A simple and functional system to automate laundry shop management 🚀
 
 ## Features
 
